@@ -15,6 +15,6 @@ HTML buttons for third party sites.
 #####Option 2 - Style Link (no hover/click styling)
 ```html
 <a href="http://informerly.com" target="_blank" title="Informerly" style="font: bold 11px Arial; text-decoration: none; background-color: #EEEEEE; color: #333333; padding: 6px; border: 1px solid #CCCCCC; -moz-border-radius: 4px; border-radius: 4px;">
-	<img src="http://i.imgur.com/42bU6uL.png" alt="Informerly" style="padding-bottom: 2px;">
+	<img src="http://i.imgur.com/42bU6uL.png" alt="Informerly" style="padding-bottom: 1px;">
 </a>
 ```
